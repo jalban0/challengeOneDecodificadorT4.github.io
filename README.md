@@ -12,7 +12,7 @@ colocando em prática os conhecimentos adquiridos durante a formação inicial e
 
 ## O que a plataforma é capaz de fazer 
 
-:trophy: A plataforma consegue criptografar e descodificar mensagens e textos.
+:trophy: A plataforma consegue criptografar e descriptografar mensagens e textos.
 
 ## 🛠️ Tecnologias usadas
 
