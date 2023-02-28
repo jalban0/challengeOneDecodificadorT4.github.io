@@ -35,7 +35,7 @@ colocando em prática os conhecimentos adquiridos durante a formação inicial e
 <a href="https:/linkedin/in/jonathas-albano">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/118950995?v=4" width="100px;" alt="foto do perfil GitHub"/>
  <br />
- <sub><b>Jonathas Albano - Dev Jr.</b></sub></a> 
+ <sub><b>Jonathas Albano - Desenvolvedor.</b></sub></a> 
 
 
 Feito com ❤️ por Jonathas Albano <a href="https://github.com/jalban0/jalban0.github.io" title="Jonathas Albano">🚀</a>
