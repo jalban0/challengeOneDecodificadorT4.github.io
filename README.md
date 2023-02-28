@@ -26,7 +26,7 @@ colocando em prática os conhecimentos adquiridos durante a formação inicial e
 
 ## Deploy da Aplicação com GitHub Pages: :octocat:
 
-> https:
+> https://jalban0.github.io/challengeOneDecodificadorT4.github.io/
 
 ---
 
